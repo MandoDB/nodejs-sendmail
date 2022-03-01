@@ -12,7 +12,11 @@
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cli-color": "^2.0.1",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
     "nodemailer": "^6.7.2",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
     "qoa": "^0.2.0"
   }
 }
