@@ -10,13 +10,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "address": "^1.1.2",
     "bcrypt": "^5.0.1",
     "cli-color": "^2.0.1",
     "dotenv": "^16.0.0",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.1",
     "nodemailer": "^6.7.2",
     "os": "^0.1.2",
     "path": "^0.12.7",
-    "qoa": "^0.2.0"
+    "qoa": "^0.2.0",
+    "terminal-kit": "^2.4.0"
   }
 }

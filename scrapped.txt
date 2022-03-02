@@ -1,0 +1,82 @@
+POP3 Server (Incoming Messages)
+Googlemail/Gmail SMTP POP3 Server
+smtp.gmail.com
+SSL Port 465
+StartTLS Port 587	pop.gmail.com
+SSL Port 995
+Please make sure, that POP3 access is enabled in the account settings. Login to your account and enable POP3.
+Outlook.com SMTP POP3 Server
+smtp.live.com
+StartTLS Port 587	pop3.live.com
+SSL Port 995
+Yahoo Mail SMTP POP3 Server
+smtp.mail.yahoo.com
+SSL Port 465	pop.mail.yahoo.com
+SSL Port 995
+Yahoo Mail Plus SMTP POP3 Server
+plus.smtp.mail.yahoo.com
+SSL Port 465	plus.pop.mail.yahoo.com
+SSL Port 995
+Yahoo UK SMTP POP3 Server
+smtp.mail.yahoo.co.uk
+SSL Port 465	pop.mail.yahoo.co.uk
+SSL Port 995
+Yahoo Deutschland SMTP POP3 Server
+smtp.mail.yahoo.de
+SSL Port 465	pop.mail.yahoo.de
+SSL Port 995
+Yahoo AU/NZ SMTP POP3 Server
+smtp.mail.yahoo.com.au
+SSL Port 465	pop.mail.yahoo.com.au
+SSL Port 995
+O2 SMTP POP3 Server
+smtp.o2.ie
+smtp.o2.co.uk	pop3.o2.ie
+pop3.o2.co.uk
+AT&T SMTP POP3 Server
+smtp.att.yahoo.com
+SSL Port 465	pop.att.yahoo.com
+SSL Port 995
+NTL @ntlworld.com SMTP POP3 Server
+smtp.ntlworld.com
+SSL Port 465	pop.ntlworld.com
+SSL Port 995
+BT Connect SMTP POP3 Server
+pop3.btconnect.com	mail.btconnect.com
+BT Openworld & BT Internet SMTP POP3 Server
+mail.btopenworld.com
+mail.btinternet.com	mail.btopenworld.com
+mail.btinternet.com
+Orange SMTP POP3 Server
+smtp.orange.net
+smtp.orange.co.uk	pop.orange.net
+pop.orange.co.uk
+Wanadoo UK SMTP POP3 Server
+smtp.wanadoo.co.uk	pop.wanadoo.co.uk
+Hotmail SMTP POP3 Server
+smtp.live.com
+StartTLS Port 587	pop3.live.com
+SSL Port 995
+O2 Online Deutschland SMTP POP3 Server
+mail.o2online.de	pop.o2online.de
+T-Online Deutschland SMTP POP3 Server
+smtpmail.t-online.de (AUTH)
+securesmtp.t-online.de (SSL)	popmail.t-online.de (AUTH)
+securepop.t-online.de (SSL)
+1&1 (1and1) SMTP POP3 Server
+smtp.1and1.com
+StartTLS Port 25 or 587	pop.1and1.com
+SSL Port 995
+1&1 Deutschland SMTP POP3 Server
+smtp.1und1.de
+StartTLS Port 25 or 587	pop.1und1.de
+SSL Port 995
+Comcast SMTP POP3 Server
+smtp.comcast.net
+Port 587	mail.comcast.net
+Verizon SMTP POP3 Server
+outgoing.verizon.net
+SSL Port 465	incoming.verizon.net
+SSL Port 995
+Verizon SMTP POP3 Server hosted on Yahoo Server
+outgoing.yahoo.verizon.net	incoming.yahoo.verizon.net

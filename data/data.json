@@ -1,0 +1,65 @@
+{
+    "smtps": [
+        {
+            "name": "Google.com SMTP",
+            "host": "gmail.com",
+            "address" : "smtp.gmail.com",
+            "port": 465,
+            "secure" : true
+        },
+        {
+            "name": "Yahoo Mail",
+            "host": "yahoo.com",
+            "address" : "smtp.mail.yahoo.com",
+            "port": 465,
+            "secure" : true
+        },
+        {
+            "name": "Outlook.com SMTP",
+            "host": "outlook.com",
+            "address" : "smtp.live.com",
+            "port": 587,
+            "secure" : false
+        },
+        {
+            "name": "Office365.com SMTP",
+            "host": "office365.com",
+            "address" : "smtp.office365.com",
+            "port": 587,
+            "secure" : false
+        },
+        {
+            "name": "Orange",
+            "host": "orange.net",
+            "adress": "sftp.orange.net",
+            "port": 25,
+            "secure" : false
+        },
+        {
+            "name": "Orange Uk",
+            "host": "Orange.uk",
+            "adress": "smtp.orange.co.uk",
+            "port": 25,
+            "secure" : false
+        },
+        {
+            "name": "Wanadoo SFTP",
+            "host": "smtp.wanadoo.co.uk",
+            "port": 25,
+            "secure": false
+        },
+        {
+            "name": "Hotmail SFTP",
+            "host": "smtp.live.com",
+            "port": 465,
+            "secure": true
+        },
+        {
+            "name": "Mail",
+            "host": "smtp.mail.com",
+            "port": 587,
+            "secure": true
+        }
+    ]
+}
+
